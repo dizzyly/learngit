@@ -4,4 +4,4 @@ git is free ware distributed under the GQL
 
 git has a mutable index stage
 
-git tracks changes
+git tracks changes changes of files
