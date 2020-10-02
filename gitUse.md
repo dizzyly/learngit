@@ -7,3 +7,5 @@ git has a mutable index stage
 git tracks changes changes of files
 
 create a new branch dev
+
+create a new branch is easy & simple 
