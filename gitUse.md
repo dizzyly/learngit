@@ -11,3 +11,8 @@ create a new branch dev
 create a new branch is easy and simple
 
 add merge
+
+add branch dev
+
+
+test stash 
